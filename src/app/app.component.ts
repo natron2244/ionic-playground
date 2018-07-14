@@ -6,7 +6,6 @@ import { Config, Nav, Platform } from 'ionic-angular';
 
 import { FirstRunPage } from '../pages';
 import { Settings } from '../providers';
-import { templateSourceUrl } from '@angular/compiler';
 
 @Component({
   templateUrl: 'app.component.html'
